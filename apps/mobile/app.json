@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Работа рядом всегда",
+    "slug": "work-nearby",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
+

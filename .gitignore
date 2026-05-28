@@ -1,0 +1,12 @@
+.env
+.idea/
+.venv/
+__pycache__/
+*.pyc
+*.db
+node_modules/
+.expo/
+*.log
+dist/
+build/
+coverage/
